@@ -8,9 +8,9 @@ http://192.168.1.42:8008/ace/getstream?id=1960a9be8ae9e8c755330218eac4c580546629
 #EXTINF:-1, Movistar La Liga 2| HD
 http://192.168.1.42:8008/ace/getstream?id=37d42d2b5d2278e6bb5810329a5f220867b3cf0c
 #EXTINF:-1, Movistar Liga de Campeones| HD
-http://192.168.1.42:8008/ace/getstream?id=a4ee6f9590351d2c88c416f9962af82c7e1ce816
+http://192.168.1.42:8008/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 #EXTINF:-1, Movistar Liga de Campeones 2| HD
-http://192.168.1.42:8008/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+http://192.168.1.42:8008/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF:-1, Eurosport| HD
 http://192.168.1.42:8008/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1, Eurosport 2| HD
